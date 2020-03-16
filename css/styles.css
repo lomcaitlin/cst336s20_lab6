@@ -1,0 +1,33 @@
+body {
+    margin: 50px auto 0 auto;
+    text-align: center;
+}
+
+.flexContainer {
+    display:flex;
+    width:100%;
+}
+
+.info {
+    width:80%;
+    padding: 0 10px;
+    text-align:left;
+
+}
+
+.pic {
+    width:500px;
+}
+
+img {
+    width:100%;
+    border-radius:10px;
+}
+
+.footer {
+    text-align:center;
+    color:#555;
+    background-color:#eee;
+    width:100%;
+    margin: 50px 0 0 0;
+}
